@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name            csgodicegame_adam
+// @name            csgodicegame_CSGO TECH
 // @description     An userscript that automates csgodicegame.com betting using martingale system.
-// @namespace       automated@adam
+// @namespace       automated@CSGO TECH
 // @version         1.2
-// @author          Adam
+// @author          CSGO TECH
 // @match           https://csgodicegame.com/
 // @run-at          document-end
 // @grant           none

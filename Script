@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name            csgodicegame_CSGO TECH
+// @name            csgohandouts_CSGO TECH
 // @description     An userscript that automates csgodicegame.com betting using martingale system.
 // @namespace       automated@CSGO TECH
 // @version         1.2
 // @author          CSGO TECH
-// @match           https://csgodicegame.com/
+// @match           https://csgohandouts.com/
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
-alert(":: CSGODiceGame.com Automated Script Loaded!");
+alert(":: csgohandouts.com Automated Script Loaded!");
 
 // Declare variables
 var init = parseFloat((Math.floor(document.getElementById('goCoins').innerHTML) / Math.pow(2, 8)).toFixed(2)); // Initial bet value
